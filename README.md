@@ -10,11 +10,7 @@ This class dynamic helped me to achieve high engagement with the students, espec
 
 "Cryptoforca" is a simple hangman console that adds an encryption feature to challenge and teach computer students in my courses or courses that I teach or plan. 
 
-### PRINTSCREEN
+### PROJECT SCREENSHOT
 
 ![](https://github.com/ljelectrar/assets/blob/main/projects%20screenshots/cryptoforca-1.png)
 ![](https://github.com/ljelectrar/assets/blob/main/projects%20screenshots/cryptoforca-2.png)
-
-
-
-![](https://github.com/ljelectrar/assets/blob/main/projects%20screenshots/simple-crypter-react2.png)
