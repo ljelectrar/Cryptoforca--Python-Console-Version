@@ -1,16 +1,13 @@
-from http.client import responses
-
 import requests
-
-response = requests.get("https://random-word-api.vercel.app/api?words=10") # API
-data = response.json()
-
 import random
 from ascii_art import stages
 from cipher_caesar import *
 
+response = requests.get("https://random-word-api.vercel.app/api?words=10") # API
+data = response.json()
+
 test_data = data
-shift = 3
+shift = 2
 
 chosen_word = encrypt(random.choice(test_data), shift)
 
@@ -23,17 +20,12 @@ for letter in chosen_word:
 
 correct_letters = []
 
+print(f"placeholder" + placeholder)
 while not game_over:
     display = ''
 
     print(stages[lives])
-    print(f"YOUR LIVES: ({lives})\nWORD LEN ({len(chosen_word)})\nTHE WORD IS?")
-
-    if display == '':
-        print(placeholder)
-    else:
-        print(display)
-
+    print(f"YOUR LIVES: ({lives})\nWORD LEN ({len(chosen_word)})")
     guess = input("guess a letter: ").lower()
 
     for letter in chosen_word:
@@ -44,6 +36,9 @@ while not game_over:
             display += letter
         else:
             display += '_'
+
+
+    print(f"\n\ndisplay: {display}")
 
     if guess not in chosen_word:
         lives -= 1
