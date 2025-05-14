@@ -1,8 +1,15 @@
+from http.client import responses
+
+import requests
+
+response = requests.get("https://random-word-api.vercel.app/api?words=10") # API
+data = response.json()
+
 import random
 from ascii_art import stages
 from cipher_caesar import *
 
-test_data = ['ana', 'band', 'lemon', 'tomato']
+test_data = data
 shift = 3
 
 chosen_word = encrypt(random.choice(test_data), shift)
