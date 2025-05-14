@@ -13,4 +13,5 @@ This class dynamic helped me to achieve high engagement with the students, espec
 ### PROJECT SCREENSHOT
 
 ![](https://github.com/ljelectrar/assets/blob/main/projects%20screenshots/cryptoforca-1.png)
+</br>
 ![](https://github.com/ljelectrar/assets/blob/main/projects%20screenshots/cryptoforca-2.png)
