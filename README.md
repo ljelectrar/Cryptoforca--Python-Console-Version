@@ -12,5 +12,9 @@ This class dynamic helped me to achieve high engagement with the students, espec
 
 ### PRINTSCREEN
 
-![](https://github.com/ljelectrar/assets/blob/main/projects%20screenshots/simple-crypter-react2.png](https://github.com/ljelectrar/assets/blob/main/projects%20screenshots/cryptoforca-1.png)
-![](https://github.com/ljelectrar/assets/blob/main/projects%20screenshots/simple-crypter-react2.png](https://github.com/ljelectrar/assets/blob/main/projects%20screenshots/cryptoforca-1.png)
+![](https://github.com/ljelectrar/assets/blob/main/projects%20screenshots/cryptoforca-1.png)
+![](https://github.com/ljelectrar/assets/blob/main/projects%20screenshots/cryptoforca-2.png)
+
+
+
+![](https://github.com/ljelectrar/assets/blob/main/projects%20screenshots/simple-crypter-react2.png)
